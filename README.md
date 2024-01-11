@@ -1,16 +1,5 @@
 # tuan_01
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Viết 01 app với 02 trang: trang giới thiệu bản thân trong 10s sau đó tự chuyển sang trang Homepage. Sau đó up app lên github của nhóm.
